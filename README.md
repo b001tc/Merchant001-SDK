@@ -1,5 +1,7 @@
 # Merchant001 SDK
 
+NOTE! This is the updated version of the previous vesion. It still updates.
+
 # Install
 
 ## Client-only
